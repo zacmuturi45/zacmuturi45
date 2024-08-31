@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, I'm Isaac</h1>
 <h3 align="center">A Full Stack Developer from Nairobi, Kenya</h3>
 
+- 🔭 I code primarily in **JavaScript and Python**
+
 - 🌱 I’m learning **TypeScript and brushing up on Gsap and Framer-motion animation techniques.**
 
 - 👨‍💻 Check out my latest full stack Game Library webapp here [https://game-go-xi.vercel.app/](https://game-go-xi.vercel.app/)
