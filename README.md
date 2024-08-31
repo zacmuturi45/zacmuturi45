@@ -1,15 +1,15 @@
 <h1 align="center">Hello 👋, I'm Isaac</h1>
 <h3 align="center">A Full Stack Developer from Nairobi, Kenya</h3>
 
-- 🔭 I code primarily in **JavaScript and Python**
+- 🔭 I code primarily in **JavaScript and Python.**
 
-- 🌱 I’m learning **TypeScript and brushing up on Gsap and Framer-motion animation techniques.**
+- 🌱 I’m learning **TypeScript at the moment.**
 
 - 👨‍💻 Check out my latest full stack Game Library webapp here [https://game-go-xi.vercel.app/](https://game-go-xi.vercel.app/)
 
 - 💬 Ask me about **Next.js, GraphQL, Flask**
 
-- 📫 How to reach me **zacmuturi45@gmail.com**
+- 📫 You can reach me at **zacmuturi45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
